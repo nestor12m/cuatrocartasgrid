@@ -98,6 +98,12 @@ h2{
     font-size: 20px;
 }
 
+.realizado p{
+    margin-top: 30px;
+ text-align: center;
+ color: blue;
+}
+
 @media(min-width:1200px){
 
     .seccion-cab{
